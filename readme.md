@@ -5,11 +5,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danko-chan" alt="danko-chan" /></a> </p> -->
 
-- 🌱 I’m currently learning **How to survive in this world(not going great)**
 
 - 👨‍💻 All of my projects are available at on github
-
-- 📝 I regularly write articles in my mind
 
 - 💬 Ask me about **anything**
 
